@@ -1,0 +1,6 @@
+# Recurse
+Recurse is software that let's you manage large-scale organizational operations and development written in Go.
+I was inspired to write it after starting my club and needing a way to communicate with my executives and give them a way to communicate with their leads recursively.
+
+# Tasks
+I use tasks(https://taskfile.dev) as my running/build tool.
