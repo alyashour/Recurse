@@ -1,0 +1,12 @@
+[submodule "gui"]
+	path = gui
+	url = git@github.com:alyashour/Recurse-GUI.git
+[submodule "core"]
+	path = core
+	url = git@github.com:alyashour/Recurse-Core.git
+[submodule "cli"]
+	path = cli
+	url = git@github.com:alyashour/Recurse-CLI.git
+[submodule "pinr"]
+	path = pinr
+	url = git@github.com:alyashour/PINR.git
